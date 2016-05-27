@@ -1,0 +1,10 @@
+{
+  "extends": "airbnb-base/legacy",
+  "env": {
+    "browser": true,
+    "jquery": true
+  },
+  "rules": {
+    "no-underscore-dangle": "off"
+  }
+}
