@@ -8,3 +8,5 @@ The [PSR-1](http://www.php-fig.org/psr/psr-1/)/[PSR-2](http://www.php-fig.org/ps
 
 #### Javascript
 Javascript follows the [AirBnB](https://github.com/airbnb/javascript) coding standard.
+
+We use ESLint for Javascript Linting
