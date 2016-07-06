@@ -6,6 +6,7 @@
   </CssCodeStyleSettings>
   <JSCodeStyleSettings>
     <option name="USE_DOUBLE_QUOTES" value="false" />
+    <option name="SPACES_WITHIN_OBJECT_LITERAL_BRACES" value="true" />
   </JSCodeStyleSettings>
   <PHPCodeStyleSettings>
     <option name="ALIGN_KEY_VALUE_PAIRS" value="true" />
@@ -21,11 +22,10 @@
     <option name="KEEP_RPAREN_AND_LBRACE_ON_ONE_LINE" value="true" />
     <option name="SPACES_AROUND_VAR_WITHIN_BRACKETS" value="true" />
     <option name="ALIGN_CLASS_CONSTANTS" value="true" />
-    <option name="SPACE_BEFORE_UNARY_NOT" value="true" />
-    <option name="SPACE_AFTER_UNARY_NOT" value="true" />
     <option name="SPACE_BEFORE_CLOSURE_LEFT_PARENTHESIS" value="false" />
     <option name="PHPDOC_USE_FQCN" value="true" />
     <option name="MULTILINE_CHAINED_CALLS_SEMICOLON_ON_NEW_LINE" value="true" />
+    <option name="NAMESPACE_BRACE_STYLE" value="2" />
   </PHPCodeStyleSettings>
   <XML>
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
@@ -46,6 +46,7 @@
   <codeStyleSettings language="JavaScript">
     <option name="RIGHT_MARGIN" value="100" />
     <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
+    <option name="METHOD_CALL_CHAIN_WRAP" value="5" />
     <option name="BINARY_OPERATION_WRAP" value="5" />
     <option name="TERNARY_OPERATION_WRAP" value="5" />
     <option name="ARRAY_INITIALIZER_WRAP" value="5" />
@@ -65,8 +66,6 @@
     <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
     <option name="KEEP_BLANK_LINES_BEFORE_RBRACE" value="0" />
     <option name="BLANK_LINES_AFTER_PACKAGE" value="1" />
-    <option name="CLASS_BRACE_STYLE" value="1" />
-    <option name="METHOD_BRACE_STYLE" value="1" />
     <option name="SPECIAL_ELSE_IF_TREATMENT" value="true" />
     <option name="ALIGN_MULTILINE_CHAINED_METHODS" value="true" />
     <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
@@ -93,10 +92,6 @@
     <option name="DOWHILE_BRACE_FORCE" value="3" />
     <option name="WHILE_BRACE_FORCE" value="3" />
     <option name="FOR_BRACE_FORCE" value="3" />
-    <indentOptions>
-      <option name="USE_TAB_CHARACTER" value="true" />
-      <option name="SMART_TABS" value="true" />
-    </indentOptions>
     <arrangement>
       <groups>
         <group>
